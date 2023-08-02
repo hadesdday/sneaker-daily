@@ -1,0 +1,3 @@
+[submodule "fe-sneaker-daily"]
+	path = fe-sneaker-daily
+	url = https://github.com/hadesdday/fe-sneaker-daily

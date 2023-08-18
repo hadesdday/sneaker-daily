@@ -6,3 +6,6 @@ JavaScript, ReactJS, Redux, Redux Saga, React Hook Form, Material UI
 
 - Backend: 
 Java, Spring Boot, Spring Data JPA, Spring Security, SQL.
+
+# Deployment:
+https://fe-sneaker-daily.vercel.app/

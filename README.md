@@ -1,11 +1,11 @@
-# Sneaker Daily Web Application
-# This is root git module repository for sneaker store application
-# Technologies:
+### Sneaker Daily Web Application
+### Deployment:
+https://fe-sneaker-daily.vercel.app
+### Technologies:
 - Frontend:
 JavaScript, ReactJS, Redux, Redux Saga, React Hook Form, Material UI
 
 - Backend: 
 Java, Spring Boot, Spring Data JPA, Spring Security, SQL.
-
-# Deployment:
-https://fe-sneaker-daily.vercel.app/
+### Note:
+- This is root git module repository for sneaker store application

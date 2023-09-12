@@ -6,4 +6,4 @@
 	url = https://github.com/hadesdday/be-sneaker-daily
 [submodule "admin-sneaker-daily"]
 	path = admin-sneaker-daily
-	url = https://github.com/hadesdday/admin-sneaker-daily
+	url = https://github.com/hadesdday/admin-sneaker-daily.git

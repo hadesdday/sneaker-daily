@@ -3,9 +3,20 @@
 https://sneakerdaily.vercel.app
 ### Technologies:
 - Frontend:
-JavaScript, ReactJS, Redux, Redux Saga, React Hook Form, Material UI
+JavaScript, ReactJS, Redux
 
 - Backend: 
-Java, Spring Boot, Spring Data JPA, Spring Security, SQL.
+Java, Spring Boot, Spring Data JPA, Spring Security, Spring Cloud, SQL.
+
+- Others:
+Docker
+
+### Libaries: (Updating)
+- Frontend:
+Redux Saga, React Hook Form, Material UI,...
+
+- Backend:
+Lombok,...
+
 ### Note:
 - This is root git module repository for sneaker store application

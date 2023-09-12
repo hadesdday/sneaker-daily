@@ -1,7 +1,9 @@
 ### Sneaker Daily Web Application
+
 ### Deployment:
 https://sneakerdaily.vercel.app
-### Technologies:
+
+### Technologies: (Updating)
 - Frontend:
 JavaScript, ReactJS, Redux
 
